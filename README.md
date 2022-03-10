@@ -1,0 +1,2 @@
+# CdcpServerDataCenter
+超电磁炮服务器的数据中心，保存一些公用文件以及记录玩家上传
